@@ -11,6 +11,6 @@ All methods are available in lib/helper.php
 
 We can short our url
 
-we can see full url
+We can see full url
 
-we can see view count
+We can see view count
