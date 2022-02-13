@@ -1,8 +1,8 @@
 # url-short
 # Project setup
-import the DB
+import the sql file in Database
 
-configuration the database in lib/db.php
+configure the database credentials in lib/db.php
 
 php version 7.4
 
